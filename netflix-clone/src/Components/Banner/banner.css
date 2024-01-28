@@ -3,12 +3,12 @@
     height:80vh;
     margin-bottom: -80px;
     color: white;
-	object-fit: contain;
+	object-fit:contain;
 }
 .banner__contents {
 	margin-left: 30px;
 	padding-top: 300px;
-	/* height: 190px; */
+	/* height: 10px; */
 }
 .banner__title {
 	font-size: 3rem;
